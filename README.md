@@ -13,4 +13,4 @@
 
 
 # Авторы
-Коняев Максим *Mkng3tzz* (https://github.com/Mkng3tzz)
+Максим "Mkng3tzz" Коняев (https://github.com/Mkng3tzz)
